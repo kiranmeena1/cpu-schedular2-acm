@@ -1,0 +1,10 @@
+# ninja log v6
+3	80	7406075864337205	C:/Users/ankit/Documents/cpu/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	b2efe9533a60953a
+81	621	7406075869893959	cpu_autogen/timestamp	7978c3ff81ba4991
+81	621	7406075869893959	cpu_autogen/mocs_compilation.cpp	7978c3ff81ba4991
+81	621	7406075869893959	C:/Users/ankit/Documents/cpu/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/cpu_autogen/timestamp	7978c3ff81ba4991
+81	621	7406075869893959	C:/Users/ankit/Documents/cpu/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/cpu_autogen/mocs_compilation.cpp	7978c3ff81ba4991
+629	2405	7406075870584642	CMakeFiles/cpu.dir/main.cpp.obj	44ed474eabd924b5
+626	2433	7406075870553580	CMakeFiles/cpu.dir/cpu_autogen/mocs_compilation.cpp.obj	ec3dec59897e398c
+633	3164	7406075870624744	CMakeFiles/cpu.dir/mainwindow.cpp.obj	3d7ebb95d34f2124
+3164	3364	7406075895942096	cpu.exe	706f53b0b74dd945
