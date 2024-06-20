@@ -1,11 +1,12 @@
-# Qt Process Scheduling Simulator
+# CPU Schedular
 
-This project is a simple process scheduling simulator developed using Qt. It implements four scheduling algorithms: First Come First Serve (FCFS), Shortest Job First (SJF), Priority Scheduling, and Round Robin.
+This project is a simple process scheduling simulator developed using Qt and cpp. It implements four scheduling algorithms: First Come First Serve (FCFS), Shortest Job First (SJF), Priority Scheduling, and Round Robin.
 
 ## Requirements
 
 - Qt 5 or later
 - Qt Creator (optional, but recommended for development)
+- cpp
 
 ## Installation
 
